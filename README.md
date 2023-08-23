@@ -1,4 +1,4 @@
-#○ ApiFuzz ○
+SimpleButGold tool for ApiFuzzZzZzing....
 ![Image alt](https://github.com/Katastrofa0/-ApiFuzz-/blob/main/12.png)
 
 --------------------------------------
