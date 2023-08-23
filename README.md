@@ -6,5 +6,5 @@ SimpleButGold tool for ApiFuzzZzZzing....
  All of u need its a provide a target url and wordlist which you prefer.
 -The main point is that the script works asynchronously, highlighting in green the endpoints, status and word from the word list that was found, so you can easily navigate, and quickly pick up the endpoints of your goal. - Aimed specifically at API searches, nothing extra. Quick and easy
 
---------------------------------------
+__________________________________________________
 -Usage: apifuzz.py -url <url> -wordlist <wordlist>
